@@ -8,7 +8,7 @@ To design a Full Adder and Full Subtractor circuit and verify its truth table in
 
 **Equipments Required:**
 
-Hardware – PCs, Cyclone II , USB flasher
+Hardware – PCs, Cyclone II , USB flasher 
 
 Software – Quartus prime
 
