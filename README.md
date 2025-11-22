@@ -50,12 +50,9 @@ Write the detailed procedure here
 
 <img width="723" height="239" alt="Screenshot 2025-11-19 205309" src="https://github.com/user-attachments/assets/3ce2e8aa-4e98-43ee-ab46-3e6183094a34" />
 
-
 Developed by:Menaka M S
-
 RegisterNumber:25015729
 */
-
 **RTL Schematic**
 
 <img width="1721" height="974" alt="Screenshot 2025-11-18 221620" src="https://github.com/user-attachments/assets/e356774f-172d-4665-b9ed-a638267b950f" />
